@@ -4,9 +4,9 @@
 
 **Department:** Artificial Intelligence and Data Science  
 **Institute:** IIT Guwahati  
-**Intern:** [Your Full Name]  
-**Mentor:** [Your Mentor’s Name]  
-**Duration:** [Start Month – End Month, e.g., May 2025 – July 2025]
+**Intern:** Mridini Chaturvedi  
+**Mentor:** Dr. Teena Sharma 
+**Duration:** May 2025 - July 2025
 
 ---
 
