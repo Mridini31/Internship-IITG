@@ -74,8 +74,8 @@ The objective of this internship was to:
 ## 5. Technologies and Tools Used
 
 - **Programming Language:** Python  
-- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
-- **Documentation:** Microsoft Word / Overleaf  
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib 
+- **Documentation:**  Overleaf  
 - **Presentation:** Microsoft PowerPoint
 
 ---
