@@ -99,12 +99,4 @@ The objective of this internship was to:
 
 ---
 
-## 8. Acknowledgement
 
-I sincerely thank **[Your Mentor’s Name]** for their continuous guidance and feedback throughout this internship, and the **AI and DS Department, IIT Guwahati**, for this valuable learning opportunity.
-
----
-
-**Note:** Please refer to individual folders for detailed codes, datasets used, and the presentation. The **final review paper draft** is included in this submission for further feedback and refinement.
-
----
