@@ -60,7 +60,6 @@ The objective of this internship was to:
 | **review_paper_draft.pdf** | Draft of the review paper prepared as part of internship work. |
 | **presentation.pptx** | Presentation summarising the internship work and insights. |
 | **codes/** | Folder containing Python implementation codes for K-Means and Hierarchical Clustering. |
-| **datasets/** | Sample datasets used for practice and code validation. |
 | **README.md** | This file describing the project, work done, and repository structure. |
 
 ---
